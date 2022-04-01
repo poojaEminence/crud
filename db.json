@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "name": "anshu",
+      "email": "pooja@123gmail.com",
+      "password": "55555555",
+      "id": 4
+    },
+    {
+      "name": "fee",
+      "email": "anshika@123gmail.com3",
+      "password": "33333",
+      "id": 5
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "password": "qweqwe",
+      "id": 7
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@123gmail.com",
+      "password": "4444444444",
+      "id": 8
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "password": "5555",
+      "id": 9
+    },
+    {
+      "name": "pooja",
+      "email": "anshika@123gmail.com",
+      "password": "55555555",
+      "id": 10
+    },
+    {
+      "name": "anshu",
+      "email": "pooja@123gmail.com",
+      "password": "555555555",
+      "id": 11
+    }
+  ],
+  "event": [
+    {
+      "name": "kiran",
+      "lastname": "maurya",
+      "address": "Delhi",
+      "id": 1
+    }
+  ]
+}
